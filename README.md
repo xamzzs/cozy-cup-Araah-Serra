@@ -21,7 +21,7 @@
 
 <img src="img/Ruzzyyyy.png" width=150 style="border-radius: 50%">  
 
-**Name: Ruzz M. Serra**
+**Name: Ruzz M. Serra**  
 **Email: ruzzyy.arres@gmail.com**  
 <a href="https://github.com/Ruzzyyyy"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/White/Github_white.png?raw=true" width=50></a>
 <a href="https://www.facebook.com/zzurlimor.arres"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png?raw=true" width=50></a>
