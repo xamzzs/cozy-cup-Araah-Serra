@@ -48,7 +48,7 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color: white;
+    color: #4c3c32;
 }
 
 .hero h1 {
@@ -114,13 +114,24 @@ nav a:hover {
 
 .about h2 {
     font-size: 30px;
+    margin-top: 20px;
     margin-bottom: 20px;
 }
 
 .about p {
+    text-align: center;
     font-size: 18px;
     max-width: 800px;
     margin: 0 auto;
+}
+
+.about ul {
+    max-width: fit-content;
+    margin: auto;
+    margin-bottom: 40px;
+    text-align: left;
+    list-style-type: none;
+    font-size: 18px;
 }
 
 .contact {
