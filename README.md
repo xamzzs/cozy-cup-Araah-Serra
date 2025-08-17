@@ -1,7 +1,7 @@
 # **Cozy Cup Cafe**  
 
 ## Project Description  
-> Cozy Cup Cafe aims to   
+> Cozy Cup Cafe aims to 
 ## Features  
 - 
 - 
